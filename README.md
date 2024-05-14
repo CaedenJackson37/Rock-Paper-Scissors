@@ -8,6 +8,7 @@ Project consists of coding I made for a rock, paper, and scissors game I created
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
+- <b>Pycharm</b>
 
 <h2>Environments Used </h2>
 
